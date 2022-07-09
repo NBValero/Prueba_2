@@ -1,22 +1,22 @@
 [
   {
     "Nombre": "Paul",
-    "Altura(cm)": 208
+    "Altura": 208
   },
   {
     "Nombre": "Pepe",
-    "Altura(cm)": 202
+    "Altura": 202
   },
   {
     "Nombre": "Manolo",
-    "Altura(cm)": 189
+    "Altura": 189
   },
   {
     "Nombre": "Juan",
-    "Altura(cm)": 234
+    "Altura": 234
   },
   {
     "Nombre": "Jorge",
-    "Altura(cm)": 200
+    "Altura": 200
   }
 ]
